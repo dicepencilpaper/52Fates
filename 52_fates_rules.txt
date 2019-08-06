@@ -1,0 +1,297 @@
+# 52 Fates
+
+
+## Game mechanics
+
+
+### Setup
+
+The game requires **one full, regular 52-card deck **that is shared between all players and the **Fate Dealer (FD)**, who is in charge of running the game. Make sure that the **draw deck** is well-shuffled before the start of the game, and discard the joker cards.
+
+
+### Action skill checks
+
+When the player characters are out of combat and adventuring, there might be specialized actions that might require the player to draw cards to see if their action was successful.
+
+To check these actions, the Fate Dealer will assign a difficulty value from **2 to 10 **to the task at hand**,** with 2 being the easiest and 10 being the most difficult.
+
+The player draws **one card** from the draw deck. If the drawn card is **greater** **than** the set difficulty value, the task is **successful**.
+
+
+#### Background skills
+
+Players can choose up to **three background skills **for their characters. When using these skills, it allows players to draw **two cards** and **add them up** when performing action checks related to their background skills, instead of just one card.
+
+Background skills can allow players to perform tasks that **would not be possible** to perform otherwise. For example, being able to forge a metal object without a metalsmith background skill.
+
+Some examples of these background skills are: acrobatics, handling animals, hunting, locksmith, sailor, scholar, and stealth. Feel free to create your own to add flavor to the characters and the game world.
+
+
+### Combat
+
+At the start of combat, each player will get a hand of cards from the draw deck equal to their **character level + 2 **(for example, a 1st level character will have 3 cards).
+
+Each player must keep their hand secret from everyone else. The FD will get a hand equal to the **highest player character level**, and will also keep their hand secret. After everyone gets their initial hand, the remaining **draw deck** will be placed face down on the table.
+
+
+#### Initiative
+
+Each player will draw a **card** from the **draw deck** and place it face up on the table. The **highest player card** sets the players’ group initiative. The Fate Dealer will do the same for each monster group.
+
+Whichever group draws the **highest card **(2 as the lowest value, up to aces counting as the highest) gets to go first, and the order continues in descending order all the way to the group with the lowest card.
+
+In the case of a draw between players and the FD, the **players go first**. Players can change their action order within their group on every combat round if they wish to do so.
+
+
+#### Move
+
+An entity can move **before or after** performing a combat action. A player character moves **30 feet** per combat round, while some monsters might move more or less distance.
+
+
+#### Combat actions
+
+All these actions will take up the whole combat round, with the exception of moving, which is the only thing that can be done before or after another action.
+
+
+##### ACTION SKILL CHECK
+
+Try to perform an advanced or specialized task that requires an action skill check.
+
+
+##### CAST A SPELL
+
+A spellcasting entity can cast a magic spell.
+
+
+##### COMBAT MANEUVER
+
+A warrior or similarly-skilled entity can perform a combat maneuver.
+
+
+##### PHYSICAL ATTACK
+
+An attack is performed by an entity by using a **melee **or** missile weapon**.
+
+
+#### Attacks
+
+Combat works by using **opposed card plays**. Both attacker and defender play cards from their hand, regardless of the type of attack (melee, missile, or magic). The **attacker plays their cards first**, then the defender.
+
+If the attacker's total card value is **higher** than the defender's card, the attack is **successful** and the defender receives damage and effects **immediately**.
+
+Once a card is played, it cannot be exchanged for another one.
+
+
+##### CARD VALUES
+
+Card values correspond to their numerical value from **2 to 10**. Face cards** count as 15**, and aces don’t have a set value as they **automatically trump any other card** except another ace. An ace makes an attack or defense **automatically successful, **and they never get stacked with any other card.
+
+
+#### Damage
+
+The damage done by an attack, whether a physical one or a spell, is determined by the value of the **highest card** used by the attacker on that action. Any damage that goes beyond zero hit points is ignored.
+
+
+##### NUMBER CARD
+
+Attacks performed with these cards do **1 point **of damage.
+
+
+##### FACE CARD
+
+Face cards inflict **2 points** of damage to the victim.
+
+
+##### ACE CARD
+
+An attack with an ace card causes the target to lose **half their current hit points** **rounding up**, up to a minimum of **3 hit points**.
+
+When an ace is drawn on **defense**, it causes the **attacker to fumble**. The attacker must draw one card from the draw deck and will **take damage** based on the value of the card as explained above.
+
+For spells, aces have special effects. Please see the _Magic & spells _section for more details.
+
+
+##### UNARMED ATTACKS
+
+An unarmed attack, if successful, will **always inflict 1 point** of damage regardless of the cards played. Also, targets of an unarmed attack can **add one card **from their hand to their **defense**, regardless of class.
+
+
+##### FALLING
+
+A character will take 1 point of damage for every 30 feet of free fall.
+
+
+### Hit points
+
+Each character has a number of hit points **equal to their maximum card hand count**.
+
+Every time a character loses a hit point, **their maximum card hand count is also reduced** by the same amount, which represents fatigue and effects of combat damage. When a player character reaches **zero hit points**, they have no cards left to play, and are dying.
+
+
+##### DEATH
+
+When a character reaches zero hit points, the player needs to draw a card from the draw deck on the** next three rounds**. If the player pulls out any **hearts card**, the character’s condition has stabilized and is **not dying** anymore, but remains unconscious.
+
+If the hearts card pulled is a **face card**, the character will immediately regain consciousness with **1 hit point**, and the player gets one card for their hand.
+
+When the **ace of hearts **is drawn, they **recover half** their maximum hit points. The player’s current hand maximum increases accordingly.
+
+If the player draws three cards on each round, and none of those cards is hearts, that **player character has died**.
+
+
+#### Conditions
+
+Combat, magic, and other situations can cause entities to fall under certain conditions that might affect them negatively.
+
+
+##### CONTINUOUS EFFECT
+
+This includes things like poison, fire, or other elements that can cause lingering effects. The effect will have a strength **from 2 to 10**. To get rid of the effect, the player needs to use their action to draw a card from their hand that is **higher than the strength score** to stop the damage, otherwise they will take **1 point of damage** per round.
+
+Sometimes the effect will only last for a certain amount of time. To determine this randomly, the FD pulls a card from the draw deck. On a number card, it lasts only **one round**. For a face card, **two rounds**, and for an ace, **four rounds**.
+
+
+##### INCAPACITATED (PARTIAL & FULL)
+
+When partial, the entity is awake and alert but **unable to move or act** due to being tied, trapped under a heavy object, under some illness, or anything else that prevents them from reacting properly and moving freely. In this situation, **any** **attack** against the incapacitated entity can **add an extra card** to their physical attacks.
+
+If the entity is fully incapacitated, all attacks **are automatically successful**. Note that the attacker still needs to draw a card to determine the damage inflicted.
+
+In the case that the entity is incapacitated due to unconsciousness, the player can draw **one cards** from the draw deck on each combat round and compare it against a number from 2 to 10, as set by the FD. If the drawn card is higher, the entity wakes up.
+
+
+### After the combat round
+
+After playing their cards and determining resolution, each participant must place their used cards in the discard deck, face up, and pick up enough cards from the draw deck to replace the cards that were played.
+
+If the draw deck runs out of cards, the discard deck is shuffled, placed face down, and becomes the draw deck.
+
+
+## Character classes
+
+It is assumed that **all player characters (PC) are human**. However, this system is open enough to **allow any race** to be played, as long as it is **somewhat similar** **to a human** in terms of size, features, and capabilities. Playing a different race does not convey any game mechanic advantages.
+
+
+### Warrior
+
+This class focuses on **melee and missile combat**. As experts of the battlefield, they get advantages on weapon combat for both attack and defense. Therefore, starting off at 1st level they have the option of **drawing two cards** when attacking or defending in physical combat. The number of cards that can be drawn increases as the character levels up.
+
+
+#### Combat maneuvers
+
+Warriors have the option to use special combat maneuvers. These are determined by the **card suit** used in play, and the specific effect changes depending on the card played. All cards used in a maneuver must belong to the **same suit**.
+
+
+##### DISARM (DIAMONDS)
+
+When a successful Disarm maneuver is executed with a **number card**, the warrior’s opponent loses their weapon as it falls on the floor. If the disarm is done with a **face card**, the weapon is **thrown away** from movement range. If done with the **Ace of Diamonds**, the weapon is thrown away and also **shattered or broken**.
+
+
+##### FURY STRIKE (SPADES)
+
+This allows the warrior to use more than one spade card (except ace) on a melee attack, **add up **the **total damage** value, and inflict that on their target.
+
+
+##### PARRY (HEARTS)
+
+When a parry maneuver is executed, the warrior **will not attack** on that whole combat round, but will **add the parry card’s value** to all their **defense** plays.
+
+
+##### PUSH (CLUBS)
+
+When this maneuver is successful and performed with a **number card**, the opponent is **pushed away** from melee range. If performed with a **face card**, the target is **pushed and knocked prone**. With the **ace**, not only the target is pushed and prone, but it’s also knocked **unconscious**.
+
+
+### Wizard
+
+A wizard wields the mysterious powers of magic, and as such they can **use the diverse powers** set by the different card suits by **casting magic spells**.
+
+
+#### Magic & spells
+
+The **card suit** played determines the kind of spell being cast. If a spell is cast with more than one card, all the cards must belong to the same suit.
+
+Spells **are only affected** by line-of-sight blockage and range. Spells have a **maximum** effect range of **60 feet**. If the **spellcaster can see** their target within that distance, even partially, the spell can be cast.
+
+
+##### DESTRUCT (CLUBS)
+
+Clubs represent the **Destruct** spell. It tears down defenses and lowers the target's protection. When a Destruction spell is cast on a target, the** spell card's value **is added to the **next attack **performed **against** them. Note that the damage inflicted will still be determined by the attacker’s highest value card.
+
+The Destruct spell is opposite to the **Protect** spell. If a wizard wants to cancel a Protection spell, they must cast a Destruct spell of a value **equal to or higher** than the Protect spell. If the spell is cast with the **Ace of Clubs**, the target of the spell will **automatically receive damage **from all attacks made at them for **one full combat round**.
+
+
+##### HARM (SPADES)
+
+The magic from spade cards is the **Harm** spell, which applies to creatures and objects, causing internal damage by tearing apart organic tissue.
+
+If cast with cards from **number cards**, it inflicts **1 point** of damage. Using **face cards** inflicts **2 points**. Casting Harm with the **Ace of Spades** will bring the victim's **hit points to zero immediately**.
+
+
+##### HEAL (HEARTS)
+
+The **Heal** spell, as the name implies, heals damage on creatures. If cast with **number cards**, it heals **1** **point**. Casting it with **face cards** heals **2 points**. Casting with the **Ace of Hearts **heals** all damage**.
+
+
+##### PROTECT (DIAMONDS)
+
+The **Protect** spell puts up a magical barrier that lowers the chance of receiving damage. When a Protect spell is cast, the spell’s card is **added to the defender's card draw** the **next time** they’re the target of an attack.
+
+This spell is opposite to the **Destruct **spell. If a wizard wants to cancel a Destruct spell, they must cast Protect with a value **equal to or higher** than the Destruct spell.
+
+If this spell is cast with the **Ace of Diamonds**, the recipient will be **invulnerable to damage** for one full combat round.
+
+
+### Levels
+
+As a character progresses while adventuring, they become more and more proficient as adventurers. This is measured by **levels**. They are gained at the rate of **one level per every 5 encounters** that a character **participated** in and **survived**.
+
+Encounters **do not necessarily mean a fight**, or in the case of a fight, winning it; there’s some leeway for the FD to adjudicate an encounter to count as a level-worthy event.
+
+
+#### Level advancement gains
+
+For every level gained, a character gets **one more card** for their hand, and their **maximum hit point count goes up **accordingly.
+
+For **every 5 levels** gained, PCs can **use one additional card **on any of their **actions and skills checks **if they choose so. For example, that means that a 5th level warrior can use up to three cards when performing a weapon attack, and a wizard can cast spells with two cards.
+
+
+## Running adventures
+
+The adventures of **52 Fates** ideally take place in a low-magic, primitive and dangerous world full of strange creatures and fantastical locations. Think of the worlds of movies like _Conan the Barbarian_, _Beastmaster_, and _Fire & Ice_.
+
+You can easily adapt almost any adventure module from another RPG system to 52 Fates. The main task for this would be to convert to this systems elements such as monsters, creatures, and things such as trap damage.
+
+
+### Monsters & creatures
+
+
+#### Hit points
+
+Use PC hit points as a guideline when establishing how much damage a monster can take, as a basis for the monster’s power level.
+
+
+#### Movement
+
+You can make creature move more than 30 feet per round if you so desire, or make them slower.
+
+
+#### Attacks
+
+
+##### NUMBER CARD
+
+This would usually deal 1 point of damage, or have a non-crippling effect on the victim.
+
+
+##### FACE CARD
+
+This usually inflicts 2 points of damage, or a special effect that has a more severe implication for the victim.
+
+
+##### ACES
+
+This could be the creature's ultimate strike. You can use the regular rules where the attack takes half of the victims hit points, or you can make up a particularly nasty special effect on the attack.
+
+
+<!-- Docs to Markdown version 1.0β17 -->
